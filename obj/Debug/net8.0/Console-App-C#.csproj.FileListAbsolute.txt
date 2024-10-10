@@ -1,0 +1,14 @@
+/home/chamindu/ESOFT/c#/Projects/Console-App-C#/bin/Debug/net8.0/Console-App-C#
+/home/chamindu/ESOFT/c#/Projects/Console-App-C#/bin/Debug/net8.0/Console-App-C#.deps.json
+/home/chamindu/ESOFT/c#/Projects/Console-App-C#/bin/Debug/net8.0/Console-App-C#.runtimeconfig.json
+/home/chamindu/ESOFT/c#/Projects/Console-App-C#/bin/Debug/net8.0/Console-App-C#.dll
+/home/chamindu/ESOFT/c#/Projects/Console-App-C#/bin/Debug/net8.0/Console-App-C#.pdb
+/home/chamindu/ESOFT/c#/Projects/Console-App-C#/obj/Debug/net8.0/Console-App-C#.GeneratedMSBuildEditorConfig.editorconfig
+/home/chamindu/ESOFT/c#/Projects/Console-App-C#/obj/Debug/net8.0/Console-App-C#.AssemblyInfoInputs.cache
+/home/chamindu/ESOFT/c#/Projects/Console-App-C#/obj/Debug/net8.0/Console-App-C#.AssemblyInfo.cs
+/home/chamindu/ESOFT/c#/Projects/Console-App-C#/obj/Debug/net8.0/Console-App-C#.csproj.CoreCompileInputs.cache
+/home/chamindu/ESOFT/c#/Projects/Console-App-C#/obj/Debug/net8.0/Console-App-C#.dll
+/home/chamindu/ESOFT/c#/Projects/Console-App-C#/obj/Debug/net8.0/refint/Console-App-C#.dll
+/home/chamindu/ESOFT/c#/Projects/Console-App-C#/obj/Debug/net8.0/Console-App-C#.pdb
+/home/chamindu/ESOFT/c#/Projects/Console-App-C#/obj/Debug/net8.0/Console-App-C#.genruntimeconfig.cache
+/home/chamindu/ESOFT/c#/Projects/Console-App-C#/obj/Debug/net8.0/ref/Console-App-C#.dll
